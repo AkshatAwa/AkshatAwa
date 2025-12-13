@@ -60,6 +60,13 @@ with a strong focus on clean code, performance, and continuous learning.
   />
 </p>
 
+
+---
+
+## Contribution Activity
+
+<img src="https://raw.githubusercontent.com/AkshatAwa/AkshatAwa/output/snake.svg" alt="Contribution snake animation" />
+
 ---
 
 ## Coding Philosophy
