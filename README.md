@@ -46,7 +46,7 @@ with a strong focus on clean code, performance, and continuous learning.
 
 ## GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=AkshatAwa&show_icons=true&theme=dracula&hide_border=true" 
     height="160"
@@ -58,7 +58,7 @@ with a strong focus on clean code, performance, and continuous learning.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatAwa&layout=compact&theme=dracula&hide_border=true" 
     height="140"
   />
-</p>
+</p> -->
 
 
 
